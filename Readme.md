@@ -35,8 +35,8 @@ python agent.py
 ```
 
 ###### 运行效果
-- (运行截图)[]
-- (程序流程)[]
+- [运行截图](https://github.com/mabin2016/chatglm3-api/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
+- [程序流程](https://github.com/mabin2016/chatglm3-api/blob/main/chatglm3-6b%E8%B0%83%E7%94%A8%E9%80%BB%E8%BE%91.jpg)
 
 ##### GPU配置
 +-----------------------------------------------------------------------------+
